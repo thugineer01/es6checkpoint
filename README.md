@@ -1,1 +1,1 @@
-# es6checkpoint
+https://www.codewars.com/users/thugineer01
